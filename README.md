@@ -1,3 +1,7 @@
 # Convoltion-Neural-Network---Tensorflow
 Building my own convolution neural network.  
-Classifation
+Structure:  
+Three convolution layer  
+Five dense layer  
+Input size (224, 224)  
+Ouput size (1, 5)  
